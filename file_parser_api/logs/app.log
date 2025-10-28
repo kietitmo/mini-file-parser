@@ -1,0 +1,287 @@
+2025-10-28 16:04:06 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:04:13 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:13 -- [DEBUG] -- app.parsers.pdf_parser -- Logger initialized for 'app.parsers.pdf_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:04:13 -- [DEBUG] -- app.parsers.doc_parser -- Logger initialized for 'app.parsers.doc_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:04:13 -- [DEBUG] -- app.parsers.ppt_parser -- Logger initialized for 'app.parsers.ppt_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:04:13 -- [DEBUG] -- app.parsers.xlsx_parser -- Logger initialized for 'app.parsers.xlsx_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:04:13 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 5bdfdf4d-ef23-4bb5-ae63-ba6ba7d829ad.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:13 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:13 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '5bdfdf4d-ef23-4bb5-ae63-ba6ba7d829ad.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:13 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:13 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:13 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 5bdfdf4d-ef23-4bb5-ae63-ba6ba7d829ad.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:13 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=5bdfdf4d-ef23-4bb5-ae63-ba6ba7d829ad ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:53 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:53 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 83b4ff3e-dacc-4f3d-a6a9-793fc4ec7c5c.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:53 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:53 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '83b4ff3e-dacc-4f3d-a6a9-793fc4ec7c5c.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:53 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:53 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:53 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 83b4ff3e-dacc-4f3d-a6a9-793fc4ec7c5c.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:53 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=83b4ff3e-dacc-4f3d-a6a9-793fc4ec7c5c ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:54 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:54 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 5b611c7a-7909-4f74-8175-f53332bb55ba.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:54 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:54 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '5b611c7a-7909-4f74-8175-f53332bb55ba.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:54 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:54 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:54 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 5b611c7a-7909-4f74-8175-f53332bb55ba.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:54 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=5b611c7a-7909-4f74-8175-f53332bb55ba ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:55 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:55 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 3eddd445-894b-40ef-b3f4-205afe373d11.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:55 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:55 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '3eddd445-894b-40ef-b3f4-205afe373d11.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:55 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:55 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:55 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 3eddd445-894b-40ef-b3f4-205afe373d11.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:55 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=3eddd445-894b-40ef-b3f4-205afe373d11 ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:55 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:55 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 2509e274-79da-48b1-a140-b0e48d22135b.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:56 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:56 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '2509e274-79da-48b1-a140-b0e48d22135b.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:56 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:56 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:56 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 2509e274-79da-48b1-a140-b0e48d22135b.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:56 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=2509e274-79da-48b1-a140-b0e48d22135b ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:56 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:56 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 4565221c-9edb-4ec4-acd2-3caf7b4653b0.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:57 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:57 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '4565221c-9edb-4ec4-acd2-3caf7b4653b0.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:57 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:57 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:57 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 4565221c-9edb-4ec4-acd2-3caf7b4653b0.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:57 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=4565221c-9edb-4ec4-acd2-3caf7b4653b0 ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:57 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:57 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: a4b43f8f-c36a-4419-9e89-23131c5cf7be.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:57 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:57 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF 'a4b43f8f-c36a-4419-9e89-23131c5cf7be.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:57 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:58 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:58 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: a4b43f8f-c36a-4419-9e89-23131c5cf7be.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:58 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=a4b43f8f-c36a-4419-9e89-23131c5cf7be ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:58 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:58 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 7a8cb284-93a2-4857-bf85-65fcfe890be9.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:58 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:58 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '7a8cb284-93a2-4857-bf85-65fcfe890be9.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:58 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:58 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:58 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 7a8cb284-93a2-4857-bf85-65fcfe890be9.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:58 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=7a8cb284-93a2-4857-bf85-65fcfe890be9 ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:04:59 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:04:59 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 2b92376b-39ee-422a-b1e1-cdb014958a41.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:04:59 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:04:59 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '2b92376b-39ee-422a-b1e1-cdb014958a41.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:04:59 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:04:59 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:04:59 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 2b92376b-39ee-422a-b1e1-cdb014958a41.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:04:59 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=2b92376b-39ee-422a-b1e1-cdb014958a41 ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:05:00 -- [INFO] -- app.api.endpoints -- Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 25
+2025-10-28 16:05:00 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 2b61fbf8-b8a5-4de0-a0bf-5246c76781bc.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:05:00 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:05:00 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '2b61fbf8-b8a5-4de0-a0bf-5246c76781bc.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:05:00 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:05:00 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:05:00 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 2b61fbf8-b8a5-4de0-a0bf-5246c76781bc.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:05:00 -- [INFO] -- app.api.endpoints -- Parsed file successfully: id=2b61fbf8-b8a5-4de0-a0bf-5246c76781bc ext=pdf size=192938B -- endpoints.py -- line 32
+2025-10-28 16:07:27 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:07:29 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 30
+2025-10-28 16:07:29 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/75e68442-b957-43b5-a924-28dbb4230aed.pdf -- endpoints.py -- line 35
+2025-10-28 16:07:29 -- [DEBUG] -- app.parsers.pdf_parser -- Logger initialized for 'app.parsers.pdf_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:07:29 -- [DEBUG] -- app.parsers.doc_parser -- Logger initialized for 'app.parsers.doc_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:07:29 -- [DEBUG] -- app.parsers.ppt_parser -- Logger initialized for 'app.parsers.ppt_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:07:29 -- [DEBUG] -- app.parsers.xlsx_parser -- Logger initialized for 'app.parsers.xlsx_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:07:29 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 75e68442-b957-43b5-a924-28dbb4230aed.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:07:29 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:07:29 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '75e68442-b957-43b5-a924-28dbb4230aed.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:07:29 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:07:29 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:07:29 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 75e68442-b957-43b5-a924-28dbb4230aed.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:07:29 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=75e68442-b957-43b5-a924-28dbb4230aed ext=pdf size=192938B -- endpoints.py -- line 43
+2025-10-28 16:07:29 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/75e68442-b957-43b5-a924-28dbb4230aed.pdf -- endpoints.py -- line 62
+2025-10-28 16:08:05 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=CV- DE - Nguyễn Tuấn Kiệt.pdf content_type=application/pdf -- endpoints.py -- line 30
+2025-10-28 16:08:05 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/5b35c968-f0c3-471c-ad81-d8aa1729f25e.pdf -- endpoints.py -- line 35
+2025-10-28 16:08:05 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 5b35c968-f0c3-471c-ad81-d8aa1729f25e.pdf -- pdf_parser.py -- line 107
+2025-10-28 16:08:05 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 35
+2025-10-28 16:08:05 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '5b35c968-f0c3-471c-ad81-d8aa1729f25e.pdf' là native. -- pdf_parser.py -- line 112
+2025-10-28 16:08:05 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 1 trang (native). -- pdf_parser.py -- line 52
+2025-10-28 16:08:05 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/1 -- pdf_parser.py -- line 59
+2025-10-28 16:08:05 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 5b35c968-f0c3-471c-ad81-d8aa1729f25e.pdf -- pdf_parser.py -- line 125
+2025-10-28 16:08:05 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=5b35c968-f0c3-471c-ad81-d8aa1729f25e ext=pdf size=192938B -- endpoints.py -- line 43
+2025-10-28 16:08:05 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/5b35c968-f0c3-471c-ad81-d8aa1729f25e.pdf -- endpoints.py -- line 62
+2025-10-28 16:08:48 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:13 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:16 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:19 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:21 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:24 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:26 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:27 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:30 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:34 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:38 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:43 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:43 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:09:50 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:12:19 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:12:33 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=3.docx content_type=application/vnd.openxmlformats-officedocument.wordprocessingml.document -- endpoints.py -- line 30
+2025-10-28 16:12:33 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/18a1d938-e3b5-40f7-b8a7-4ae88690decd.docx -- endpoints.py -- line 35
+2025-10-28 16:12:33 -- [DEBUG] -- app.parsers.pdf_parser -- Logger initialized for 'app.parsers.pdf_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:12:33 -- [DEBUG] -- app.parsers.doc_parser -- Logger initialized for 'app.parsers.doc_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:12:33 -- [DEBUG] -- app.parsers.ppt_parser -- Logger initialized for 'app.parsers.ppt_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:12:33 -- [DEBUG] -- app.parsers.xlsx_parser -- Logger initialized for 'app.parsers.xlsx_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:12:33 -- [INFO] -- app.parsers.doc_parser -- 📝 Bắt đầu xử lý file Word: 18a1d938-e3b5-40f7-b8a7-4ae88690decd.docx -- doc_parser.py -- line 125
+2025-10-28 16:12:33 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=18a1d938-e3b5-40f7-b8a7-4ae88690decd ext=docx size=19608B -- endpoints.py -- line 43
+2025-10-28 16:12:33 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/18a1d938-e3b5-40f7-b8a7-4ae88690decd.docx -- endpoints.py -- line 62
+2025-10-28 16:12:55 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=3.doc content_type=application/msword -- endpoints.py -- line 30
+2025-10-28 16:12:55 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/05d223a6-1ea2-494a-aa6c-c19dc4ceb485.doc -- endpoints.py -- line 35
+2025-10-28 16:12:55 -- [INFO] -- app.parsers.doc_parser -- 📝 Bắt đầu xử lý file Word: 05d223a6-1ea2-494a-aa6c-c19dc4ceb485.doc -- doc_parser.py -- line 125
+2025-10-28 16:12:55 -- [INFO] -- app.parsers.doc_parser -- 📄 Đang chuyển đổi file DOC → text: 05d223a6-1ea2-494a-aa6c-c19dc4ceb485.doc -- doc_parser.py -- line 111
+2025-10-28 16:12:55 -- [ERROR] -- app.parsers.doc_parser -- ❌ Lỗi khi đọc file DOC: Could not find the body element: are you sure this is a docx file? -- doc_parser.py -- line 118
+2025-10-28 16:12:55 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=05d223a6-1ea2-494a-aa6c-c19dc4ceb485 ext=doc size=133120B -- endpoints.py -- line 43
+2025-10-28 16:12:55 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/05d223a6-1ea2-494a-aa6c-c19dc4ceb485.doc -- endpoints.py -- line 62
+2025-10-28 16:13:54 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=CT01.doc content_type=application/msword -- endpoints.py -- line 30
+2025-10-28 16:13:54 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/672f3374-fb3e-43ee-8a47-8c9e9949b118.doc -- endpoints.py -- line 35
+2025-10-28 16:13:54 -- [INFO] -- app.parsers.doc_parser -- 📝 Bắt đầu xử lý file Word: 672f3374-fb3e-43ee-8a47-8c9e9949b118.doc -- doc_parser.py -- line 125
+2025-10-28 16:13:54 -- [INFO] -- app.parsers.doc_parser -- 📄 Đang chuyển đổi file DOC → text: 672f3374-fb3e-43ee-8a47-8c9e9949b118.doc -- doc_parser.py -- line 111
+2025-10-28 16:13:54 -- [ERROR] -- app.parsers.doc_parser -- ❌ Lỗi khi đọc file DOC: Could not find main document part. Are you sure this is a valid .docx file? -- doc_parser.py -- line 118
+2025-10-28 16:13:54 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=672f3374-fb3e-43ee-8a47-8c9e9949b118 ext=doc size=58880B -- endpoints.py -- line 43
+2025-10-28 16:13:54 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/672f3374-fb3e-43ee-8a47-8c9e9949b118.doc -- endpoints.py -- line 62
+2025-10-28 16:16:10 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:19:16 -- [DEBUG] -- app.api.endpoints -- Logger initialized for 'app.api.endpoints' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:19:23 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=CT01.doc content_type=application/msword -- endpoints.py -- line 30
+2025-10-28 16:19:23 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/350a6ac4-e9a5-4bf4-a309-9a524d2fb957.doc -- endpoints.py -- line 35
+2025-10-28 16:19:23 -- [DEBUG] -- app.parsers.pdf_parser -- Logger initialized for 'app.parsers.pdf_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:19:23 -- [DEBUG] -- app.parsers.doc_parser -- Logger initialized for 'app.parsers.doc_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:19:23 -- [DEBUG] -- app.parsers.ppt_parser -- Logger initialized for 'app.parsers.ppt_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:19:23 -- [DEBUG] -- app.parsers.xlsx_parser -- Logger initialized for 'app.parsers.xlsx_parser' → writing to /app/logs/app.log -- __init__.py -- line 54
+2025-10-28 16:19:23 -- [INFO] -- app.parsers.doc_parser -- 📄 Đang xử lý file Word: 350a6ac4-e9a5-4bf4-a309-9a524d2fb957.doc -- doc_parser.py -- line 82
+2025-10-28 16:19:23 -- [INFO] -- app.parsers.doc_parser -- 🔄 Converting .doc → .docx: 350a6ac4-e9a5-4bf4-a309-9a524d2fb957.doc -- doc_parser.py -- line 23
+2025-10-28 16:19:23 -- [INFO] -- app.parsers.doc_parser -- ✅ Convert thành công: /tmp/tmpkddhoio7/350a6ac4-e9a5-4bf4-a309-9a524d2fb957.docx -- doc_parser.py -- line 32
+2025-10-28 16:19:23 -- [DEBUG] -- app.parsers.doc_parser -- 🧹 Đã xoá file tạm /tmp/tmpkddhoio7/350a6ac4-e9a5-4bf4-a309-9a524d2fb957.docx -- doc_parser.py -- line 97
+2025-10-28 16:19:23 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=350a6ac4-e9a5-4bf4-a309-9a524d2fb957 ext=doc size=58880B -- endpoints.py -- line 43
+2025-10-28 16:19:23 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/350a6ac4-e9a5-4bf4-a309-9a524d2fb957.doc -- endpoints.py -- line 62
+2025-10-28 16:21:04 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=2-can-cuoc-cong-cong-chung.pdf content_type=application/pdf -- endpoints.py -- line 30
+2025-10-28 16:21:04 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/d72bcac7-83d4-4e6f-a64d-702cdda84dc1.pdf -- endpoints.py -- line 35
+2025-10-28 16:21:04 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: d72bcac7-83d4-4e6f-a64d-702cdda84dc1.pdf -- pdf_parser.py -- line 99
+2025-10-28 16:21:04 -- [DEBUG] -- app.parsers.pdf_parser -- 🔍 Không phát hiện text layer trong 2 trang đầu. -- pdf_parser.py -- line 35
+2025-10-28 16:21:04 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF 'd72bcac7-83d4-4e6f-a64d-702cdda84dc1.pdf' là scan. -- pdf_parser.py -- line 104
+2025-10-28 16:21:04 -- [INFO] -- app.parsers.pdf_parser -- 🔧 Chuyển trang PDF thành ảnh (DPI=300)... -- pdf_parser.py -- line 71
+2025-10-28 16:21:05 -- [INFO] -- app.parsers.pdf_parser -- 🖼 OCR 2 trang... -- pdf_parser.py -- line 74
+2025-10-28 16:21:06 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 1/2 -- pdf_parser.py -- line 85
+2025-10-28 16:21:07 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 2/2 -- pdf_parser.py -- line 85
+2025-10-28 16:21:07 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: d72bcac7-83d4-4e6f-a64d-702cdda84dc1.pdf -- pdf_parser.py -- line 117
+2025-10-28 16:21:07 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=d72bcac7-83d4-4e6f-a64d-702cdda84dc1 ext=pdf size=699831B -- endpoints.py -- line 43
+2025-10-28 16:21:07 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/d72bcac7-83d4-4e6f-a64d-702cdda84dc1.pdf -- endpoints.py -- line 62
+2025-10-28 16:21:58 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=Vbxn.pdf content_type=application/pdf -- endpoints.py -- line 30
+2025-10-28 16:21:58 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/2843b747-9a67-44bd-9b20-ff7e5a356361.pdf -- endpoints.py -- line 35
+2025-10-28 16:21:58 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 2843b747-9a67-44bd-9b20-ff7e5a356361.pdf -- pdf_parser.py -- line 99
+2025-10-28 16:21:58 -- [DEBUG] -- app.parsers.pdf_parser -- 🔍 Không phát hiện text layer trong 3 trang đầu. -- pdf_parser.py -- line 35
+2025-10-28 16:21:58 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '2843b747-9a67-44bd-9b20-ff7e5a356361.pdf' là scan. -- pdf_parser.py -- line 104
+2025-10-28 16:21:58 -- [INFO] -- app.parsers.pdf_parser -- 🔧 Chuyển trang PDF thành ảnh (DPI=300)... -- pdf_parser.py -- line 71
+2025-10-28 16:22:02 -- [INFO] -- app.parsers.pdf_parser -- 🖼 OCR 7 trang... -- pdf_parser.py -- line 74
+2025-10-28 16:22:04 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 1/7 -- pdf_parser.py -- line 85
+2025-10-28 16:22:06 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 2/7 -- pdf_parser.py -- line 85
+2025-10-28 16:22:08 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 3/7 -- pdf_parser.py -- line 85
+2025-10-28 16:22:10 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 4/7 -- pdf_parser.py -- line 85
+2025-10-28 16:22:12 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 5/7 -- pdf_parser.py -- line 85
+2025-10-28 16:22:15 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 6/7 -- pdf_parser.py -- line 85
+2025-10-28 16:22:17 -- [DEBUG] -- app.parsers.pdf_parser -- 📝 OCR xong trang 7/7 -- pdf_parser.py -- line 85
+2025-10-28 16:22:17 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 2843b747-9a67-44bd-9b20-ff7e5a356361.pdf -- pdf_parser.py -- line 117
+2025-10-28 16:22:17 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=2843b747-9a67-44bd-9b20-ff7e5a356361 ext=pdf size=6798883B -- endpoints.py -- line 43
+2025-10-28 16:22:17 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/2843b747-9a67-44bd-9b20-ff7e5a356361.pdf -- endpoints.py -- line 62
+2025-10-28 16:22:46 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=CV-Resume-7.pdf content_type=application/pdf -- endpoints.py -- line 30
+2025-10-28 16:22:46 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/f4a8ef0a-730e-4b6e-89e3-d575285523bf.pdf -- endpoints.py -- line 35
+2025-10-28 16:22:46 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: f4a8ef0a-730e-4b6e-89e3-d575285523bf.pdf -- pdf_parser.py -- line 99
+2025-10-28 16:22:46 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 33
+2025-10-28 16:22:46 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF 'f4a8ef0a-730e-4b6e-89e3-d575285523bf.pdf' là native. -- pdf_parser.py -- line 104
+2025-10-28 16:22:46 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 2 trang (native). -- pdf_parser.py -- line 48
+2025-10-28 16:22:46 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/2 -- pdf_parser.py -- line 55
+2025-10-28 16:22:46 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 2/2 -- pdf_parser.py -- line 55
+2025-10-28 16:22:46 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: f4a8ef0a-730e-4b6e-89e3-d575285523bf.pdf -- pdf_parser.py -- line 117
+2025-10-28 16:22:46 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=f4a8ef0a-730e-4b6e-89e3-d575285523bf ext=pdf size=105175B -- endpoints.py -- line 43
+2025-10-28 16:22:46 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/f4a8ef0a-730e-4b6e-89e3-d575285523bf.pdf -- endpoints.py -- line 62
+2025-10-28 16:23:08 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=Non Text Magic Studio Magic Design for Presentations L&P.pptx content_type=application/vnd.openxmlformats-officedocument.presentationml.presentation -- endpoints.py -- line 30
+2025-10-28 16:23:08 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/9c5e2657-80e0-41d3-a289-53e5f5dedc7a.pptx -- endpoints.py -- line 35
+2025-10-28 16:23:08 -- [INFO] -- app.parsers.ppt_parser -- 📊 Bắt đầu parsing PPTX: /tmp/uploads/9c5e2657-80e0-41d3-a289-53e5f5dedc7a.pptx -- ppt_parser.py -- line 25
+2025-10-28 16:23:08 -- [INFO] -- app.parsers.ppt_parser -- 🔍 Tệp có 7 slide. -- ppt_parser.py -- line 29
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- ➡️ Đang xử lý slide 1/7 -- ppt_parser.py -- line 33
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 1 - Shape 4: SOLUTION TO MIGRATE ETL... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 1 - Shape 5: FROM ON-PREMISE SSIS TO AWS CLOUD... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 1 - Shape 6: Group 69... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 1 - Shape 7: Challenge 21... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- ➡️ Đang xử lý slide 2/7 -- ppt_parser.py -- line 33
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 3: CURRENT PROBLEM... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 4: Challenge 21: Solution to migrate ETL from on-premise to AWS... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 6: High Maintenance Costs... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 7: Hardware, licenses, and human resources.... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 8: Limited Scalability... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 9: Struggles with data surges.
+Redundancy when data is small.... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 11: Lack of Real-time Flexibility... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 12: Microsoft SSIS does not natively support Real-Time streaming... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 14: AI/ML Integration Challenges... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 2 - Shape 15: Hinders advanced tech adoption.... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- ➡️ Đang xử lý slide 3/7 -- ppt_parser.py -- line 33
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 3 - Shape 11: Challenge 21: Solution to migrate ETL from on-premise to AWS... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 3 - Shape 14: Solution... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- ➡️ Đang xử lý slide 4/7 -- ppt_parser.py -- line 33
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 4 - Shape 6: Architecture
+overview... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 4 - Shape 7: Challenge 21: Solution to migrate ETL from on-premise to AWS... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- ➡️ Đang xử lý slide 5/7 -- ppt_parser.py -- line 33
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 12: Strategic benefit... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 13: Eliminate hardware and licensing costs compared to on-premis... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 14: Cost savings... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 15: Challenge 21: Solution to migrate ETL from on-premise to AWS... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 16: Handle millions of transactions per minute without manual in... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 17: Unlimited Scalability... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 18: Ensured by robust AWS cloud infrastructure.... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 19: 99.99% Reliability... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 20: Real-time data to provide to departments.... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 21: Accelerated Decision Making... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 22: Open doors to advanced AI and Machine Learning applications.... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 5 - Shape 23: Foundation for Innovation (AI/ML)... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- ➡️ Đang xử lý slide 6/7 -- ppt_parser.py -- line 33
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 15: Challenge 21: Solution to migrate ETL from on-premise to AWS... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 16: Alternatives and extensions... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 17: More complex realtime processing... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 18: Lakehouse... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 20: Apache Iceberg... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 21: S3... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 22: Medallion architecture... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 23: Lambda function... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 6 - Shape 24: Kinesis data analytic... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- ➡️ Đang xử lý slide 7/7 -- ppt_parser.py -- line 33
+2025-10-28 16:23:08 -- [DEBUG] -- app.parsers.ppt_parser -- 📝 Slide 7 - Shape 7: Challenge 21: Solution to migrate ETL from on-premise to AWS... -- ppt_parser.py -- line 17
+2025-10-28 16:23:08 -- [INFO] -- app.parsers.ppt_parser -- ✅ Hoàn tất parsing PPTX: /tmp/uploads/9c5e2657-80e0-41d3-a289-53e5f5dedc7a.pptx -- ppt_parser.py -- line 42
+2025-10-28 16:23:08 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=9c5e2657-80e0-41d3-a289-53e5f5dedc7a ext=pptx size=1006321B -- endpoints.py -- line 43
+2025-10-28 16:23:08 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/9c5e2657-80e0-41d3-a289-53e5f5dedc7a.pptx -- endpoints.py -- line 62
+2025-10-28 16:23:19 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=Mau_Thong_tin_ung_vien_VPBank_2025 (1).xlsx content_type=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet -- endpoints.py -- line 30
+2025-10-28 16:23:19 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/cf1d3016-9954-45e2-84d9-baffb32890ae.xlsx -- endpoints.py -- line 35
+2025-10-28 16:23:19 -- [INFO] -- app.parsers.xlsx_parser -- 📊 Bắt đầu parsing Excel: cf1d3016-9954-45e2-84d9-baffb32890ae.xlsx -- xlsx_parser.py -- line 32
+2025-10-28 16:23:19 -- [INFO] -- app.parsers.xlsx_parser -- 📑 File 'cf1d3016-9954-45e2-84d9-baffb32890ae.xlsx' có 5 sheet: information, Example, chuyen nganh, Thong tin ve Dia chi, Data -- xlsx_parser.py -- line 37
+2025-10-28 16:23:19 -- [DEBUG] -- app.parsers.xlsx_parser -- 📄 Đang đọc sheet: information -- xlsx_parser.py -- line 14
+2025-10-28 16:23:19 -- [DEBUG] -- app.parsers.xlsx_parser -- ✅ Đọc xong sheet 'information' (11920 hàng × 18 cột). -- xlsx_parser.py -- line 22
+2025-10-28 16:23:19 -- [DEBUG] -- app.parsers.xlsx_parser -- 📄 Đang đọc sheet: Example -- xlsx_parser.py -- line 14
+2025-10-28 16:23:19 -- [DEBUG] -- app.parsers.xlsx_parser -- ✅ Đọc xong sheet 'Example' (224 hàng × 11 cột). -- xlsx_parser.py -- line 22
+2025-10-28 16:23:19 -- [DEBUG] -- app.parsers.xlsx_parser -- 📄 Đang đọc sheet: chuyen nganh -- xlsx_parser.py -- line 14
+2025-10-28 16:23:19 -- [DEBUG] -- app.parsers.xlsx_parser -- ✅ Đọc xong sheet 'chuyen nganh' (278 hàng × 10 cột). -- xlsx_parser.py -- line 22
+2025-10-28 16:23:19 -- [DEBUG] -- app.parsers.xlsx_parser -- 📄 Đang đọc sheet: Thong tin ve Dia chi -- xlsx_parser.py -- line 14
+2025-10-28 16:23:20 -- [DEBUG] -- app.parsers.xlsx_parser -- ✅ Đọc xong sheet 'Thong tin ve Dia chi' (11060 hàng × 10 cột). -- xlsx_parser.py -- line 22
+2025-10-28 16:23:20 -- [DEBUG] -- app.parsers.xlsx_parser -- 📄 Đang đọc sheet: Data -- xlsx_parser.py -- line 14
+2025-10-28 16:23:20 -- [DEBUG] -- app.parsers.xlsx_parser -- ✅ Đọc xong sheet 'Data' (3 hàng × 217 cột). -- xlsx_parser.py -- line 22
+2025-10-28 16:23:20 -- [INFO] -- app.parsers.xlsx_parser -- ✅ Hoàn tất parsing Excel: cf1d3016-9954-45e2-84d9-baffb32890ae.xlsx -- xlsx_parser.py -- line 46
+2025-10-28 16:23:20 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=cf1d3016-9954-45e2-84d9-baffb32890ae ext=xlsx size=772807B -- endpoints.py -- line 43
+2025-10-28 16:23:20 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/cf1d3016-9954-45e2-84d9-baffb32890ae.xlsx -- endpoints.py -- line 62
+2025-10-28 16:23:33 -- [INFO] -- app.api.endpoints -- 📤 Upload received: filename=example.pdf content_type=application/pdf -- endpoints.py -- line 30
+2025-10-28 16:23:33 -- [DEBUG] -- app.api.endpoints -- 🗂️ File tạm được lưu tại: /tmp/uploads/6831412d-ca59-4048-903b-9b5db54aeb65.pdf -- endpoints.py -- line 35
+2025-10-28 16:23:33 -- [INFO] -- app.parsers.pdf_parser -- 🔍 Bắt đầu xử lý PDF: 6831412d-ca59-4048-903b-9b5db54aeb65.pdf -- pdf_parser.py -- line 99
+2025-10-28 16:23:33 -- [DEBUG] -- app.parsers.pdf_parser -- ✅ Trang 1 có text layer. -- pdf_parser.py -- line 33
+2025-10-28 16:23:33 -- [INFO] -- app.parsers.pdf_parser -- 📑 PDF '6831412d-ca59-4048-903b-9b5db54aeb65.pdf' là native. -- pdf_parser.py -- line 104
+2025-10-28 16:23:33 -- [INFO] -- app.parsers.pdf_parser -- 🧾 File có 3 trang (native). -- pdf_parser.py -- line 48
+2025-10-28 16:23:33 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 1/3 -- pdf_parser.py -- line 55
+2025-10-28 16:23:33 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 2/3 -- pdf_parser.py -- line 55
+2025-10-28 16:23:33 -- [DEBUG] -- app.parsers.pdf_parser -- 📘 Đã đọc trang 3/3 -- pdf_parser.py -- line 55
+2025-10-28 16:23:33 -- [INFO] -- app.parsers.pdf_parser -- ✅ Hoàn tất xử lý PDF: 6831412d-ca59-4048-903b-9b5db54aeb65.pdf -- pdf_parser.py -- line 117
+2025-10-28 16:23:33 -- [INFO] -- app.api.endpoints -- ✅ Parsed file successfully: id=6831412d-ca59-4048-903b-9b5db54aeb65 ext=pdf size=351048B -- endpoints.py -- line 43
+2025-10-28 16:23:33 -- [DEBUG] -- app.api.endpoints -- 🧹 Đã xoá file tạm: /tmp/uploads/6831412d-ca59-4048-903b-9b5db54aeb65.pdf -- endpoints.py -- line 62

@@ -1,0 +1,14 @@
+# Ignore local and build files in docker context
+.venv
+venv
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+uploads
+dist
+build
+tests
+README.md
+
