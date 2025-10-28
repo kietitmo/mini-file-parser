@@ -44,9 +44,9 @@ async def upload_file(request: Request, file: UploadFile = File(...)):
 
         return FileResponse(
             id=file_id,
-            filename=file.filename,
-            size=len(content),
-            mime_type=file.content_type,
+            file_name=file.filename,
+            file_size=len(content),
+            file_type=file.content_type,
             extracted_content=markdown_content,
         )
 
